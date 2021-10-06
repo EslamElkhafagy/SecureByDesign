@@ -3,6 +3,11 @@ package com.example.securebydesign.competition1;
 import org.apache.commons.lang3.StringEscapeUtils;
 import org.apache.commons.lang3.Validate;
 
+/**
+ * Design a secure Customer class that contains customerId, customerName, bankAccountNumber, AccountBalance
+ * it will be fine if @bankAccountNumber and @accountBalance gathering on Account Object
+ */
+ 
 
 public class Customer {
 
