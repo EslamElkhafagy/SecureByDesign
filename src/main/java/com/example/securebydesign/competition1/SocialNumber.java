@@ -8,7 +8,11 @@ import java.io.IOException;
 import java.io.ObjectInput;
 import java.io.ObjectOutput;
 import java.util.Arrays;
-
+/**
+ * 
+ * Design a class that has 1 field which can be retrieved only once ? 
+ *
+ */
 public final class SocialNumber implements Externalizable {
 
 private final char[] nationalNumber;
