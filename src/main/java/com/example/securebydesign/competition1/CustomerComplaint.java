@@ -3,6 +3,11 @@ package com.example.securebydesign.competition1;
 import org.apache.commons.lang3.StringEscapeUtils;
 import org.apache.commons.lang3.Validate;
 
+/**
+ * 
+ * Design a class that contains 1 field to be used for storing customer’s complaint on online shopping website?
+ *
+ */
 public class CustomerComplaint {
     private static final int MIN_LENGTH_complaint=0;
     private static final int MAX_LENGTH_complaint=2147483646;
